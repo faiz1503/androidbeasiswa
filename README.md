@@ -1,3 +1,4 @@
 # androidbeasiswa
-Aplikasi pencarian beasiswa sederhana berbasis Android
+Aplikasi pencarian beasiswa sederhana berbasis Android.
+
 Masih terdapat bug
